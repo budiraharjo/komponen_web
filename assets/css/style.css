@@ -386,7 +386,7 @@ hr{
     text-transform:uppercase
 }
 .bg-image1{
-    background-image:url(../img/login1.png);
+    background-image:url(https://raw.githubusercontent.com/budiraharjo/komponen_web/main/assets/img/login1.png);
     background-size:cover;
     background-position:center
 }
